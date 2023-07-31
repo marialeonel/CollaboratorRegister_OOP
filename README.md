@@ -20,6 +20,7 @@ You can download the "src" file, save inside a new directory and open it using t
 </ul>
 
 ** The image below is a print of one of my forms - Collaborator of type Administrative. **
+
 ![image](https://github.com/marialeonel/POO_CadastroColaboradores/assets/131628787/9ce7fad2-da9e-471f-8c96-7ed4d54fb77c)
 
 ## 🤔 "Why did you develop this project?" 
