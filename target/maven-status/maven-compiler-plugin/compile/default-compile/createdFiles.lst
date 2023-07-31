@@ -1,0 +1,15 @@
+com\mycompany\colaborador\DataErrException.class
+com\mycompany\colaborador\Prestador.class
+com\mycompany\colaborador\Principal.class
+com\mycompany\colaborador\StatusErrException.class
+com\mycompany\colaborador\Salario.class
+com\mycompany\colaborador\CalcINSS.class
+com\mycompany\colaborador\Colaborador.class
+com\mycompany\colaborador\Administrativo.class
+com\mycompany\colaborador\HorasErrException.class
+com\mycompany\colaborador\SalErrException.class
+com\mycompany\colaborador\Executor.class
+com\mycompany\colaborador\Leitura.class
+com\mycompany\colaborador\CaracterErrException.class
+com\mycompany\colaborador\CargaErrException.class
+com\mycompany\colaborador\DicotomicaErrException.class
