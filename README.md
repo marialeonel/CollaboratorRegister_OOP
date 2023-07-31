@@ -19,10 +19,6 @@ You can download the "src" file, save inside a new directory and open it using t
   <li> 6) <b> Do you want to see the general report? </b>  Type the collaborator's ID and click on the General report's button. </li>
 </ul>
 
-** The image below is a print of one of my forms - Collaborator of type Administrative. **
-
-![image](https://github.com/marialeonel/POO_CadastroColaboradores/assets/131628787/9ce7fad2-da9e-471f-8c96-7ed4d54fb77c)
-
 ## 🤔 "Why did you develop this project?" 
 It was my final project for the subject of Object Oriented Programming (OOP) on my 2nd period. 
 Final media: 9,1.
