@@ -32,7 +32,6 @@ Yes, this project was individual.
 ## 🍀 THANK YOU! 
 <p> 
   <ul> Thanks for reading and enjoy your collaborator's register!
-    <li> <b>The project is not in English yet, but I intend to trasnlate and commit soon!</b></li>
     <li> You can follow me on my Linkedin Profile: <a href = "https://www.linkedin.com/in/maria-fernanda-leonel-bertelli-252480257"> Maria Fernanda Leonel Bertelli! </a> </li>
   </ul>
 </p>
